@@ -1,0 +1,19 @@
+{
+  "name": "phpfunction/dingding",
+  "description": "dingding",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Phpfunction\\Dingding\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "phpfunction",
+      "email": "164589895@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  }
+}
